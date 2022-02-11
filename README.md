@@ -1,6 +1,6 @@
 # Introduction
 
-This second project was developed to fulfil the Data Science module requirements of IBM's i.am-vitalize programme. The group had a teammate who is a Subject Matter Expert (SME) in the education field of Physics taught at the [Junior College levels in Singapore.](https://en.wikipedia.org/wiki/Junior_college#Singapore). We therefore collectively felt that it would be an interesting experience to do the project with an SME within our midst.
+This second project was developed to fulfil the Data Science module requirements of IBM's i.am-vitalize programme. The group had a teammate who is a Subject Matter Expert (SME) in the education field of Physics taught at the [Junior College levels in Singapore](https://en.wikipedia.org/wiki/Junior_college#Singapore). We therefore collectively felt that it would be an interesting experience to do the project with an SME within our midst.
 
 While we heavily relied on the key principles of Enterprise Design Thinking (EDT) to ensure all group members converged back when we digressed away too much, all five stages of the Data Science lifecycle (i.e Planning Analytics, Descriptive Analytics, Diagnostic Analytics, Predictive Analytics and Prescriptive Analytics) formed the main backbone of the project structure.
 
